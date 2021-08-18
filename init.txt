@@ -1,0 +1,19 @@
+[lostark_fishing]
+width = 400
+height = 400
+wait_time = 5
+mark_image_name = exclamationMark.png
+detect_cnt = 120
+
+[fishingSite_papunika]
+point1 = (1440, 1037)
+point2 = (1385, 966)
+point3 = (1536, 998)
+point4 = (1450, 1046)
+point5 = (1498, 929)
+point6 = (1529, 1052)
+point7 = (1375, 1000)
+point8 = (1464, 925)
+point9 = (1504, 1036)
+point10 = (1420, 1022)
+
