@@ -3,11 +3,11 @@
 로스트아크의 낚시 매크로입니다. 단순한 흥미 목적으로 만든 프로그램으로 악용은 하지 말아주세요.
 
 # Requirements
-configparser==5.3.0
-mouse==0.7.1
-keyboard==0.13.5
-pyautogui==0.9.38
-opencv_python==4.6.0.66
+configparser==5.3.0  
+mouse==0.7.1  
+keyboard==0.13.5  
+pyautogui==0.9.38  
+opencv_python==4.6.0.66  
 
 # 실행 방법
 
