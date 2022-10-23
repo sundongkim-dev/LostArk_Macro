@@ -1,11 +1,11 @@
-[lostark_fishing]
+[fishing_info]
 width = 400
 height = 400
-wait_time = 5
-mark_image_name = exclamationMark.png
-detect_cnt = 120
+wait_seconds = 5
+target_image_name = exclamationMark.png
+detect_seconds = 120
 
-[fishingSite_papunika]
+[fishing_site_papunika]
 point1 = (1440, 1037)
 point2 = (1385, 966)
 point3 = (1536, 998)
